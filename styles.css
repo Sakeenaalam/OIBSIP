@@ -1,1 +1,148 @@
-/* This is a css file */
+body, h1, h2, h3, p, ul, li 
+{
+    margin: 0;
+    padding: 0;
+}
+
+body 
+{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #5C8374;
+}
+
+.intro 
+{
+
+    height: 400px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+}
+
+.para
+{
+    height: 30px;
+    text-align: left;
+    font-size: large;
+}
+.softskills
+{
+    height: 400px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+
+.hardskills
+{
+    height: 400px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+
+.edu
+{
+    height: 400px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+.hobby
+{
+    height: 350px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+
+.goal
+{
+    height: 400px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+.achieve
+{
+    height: 200px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+
+.proj
+{
+    height: 250px;
+    margin: 0;
+    padding: 30px;
+    text-align: left;
+    background-image: url('CS\ image.jpg');
+    color: #93B1A6;
+    font-size: large;
+}
+.nav
+{
+    padding: 20px;
+    background-color: #183D3D;
+    
+}
+
+nav ul 
+{
+    list-style-type: none;
+    text-align: right;
+    
+}
+
+nav ul li 
+{
+    display: inline;
+    margin: 20px;
+}
+
+nav ul li a 
+{
+    text-decoration: none;
+    color: #f6f6f7;
+}
+
+nav ul li a:hover 
+{
+    color: black;
+}
+
+section 
+{
+    padding: 35px 0;
+}
+
+
+#footer 
+{
+    background-color: #0a0a0a;
+    color: #5c8374
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+}
