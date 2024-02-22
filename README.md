@@ -41,10 +41,10 @@ To run this application locally:
 
 For any issues or inquiries, please contact sakeenaalam999@gmail.com.
 
-## Contributing
+# Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
-## THANK YOU!!
+<h1>THANK YOU!!</h1>
 
 
