@@ -45,6 +45,6 @@ For any issues or inquiries, please contact sakeenaalam999@gmail.com.
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
-## License
+## THANK YOU!!
 
-This project is licensed under the [MIT License](LICENSE).
+
