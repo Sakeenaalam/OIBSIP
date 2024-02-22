@@ -1,0 +1,48 @@
+/* This is a css file */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #add8e6;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #0808af;
+    border-radius: 15px;
+    background-color: #2ca2e6;
+}
+
+input[type="number"], select, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #1414e2;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+
+button:hover {
+    background-color: #0000A0;
+}
+
+#result {
+    margin-top: 2px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+h4{
+    text-align: left;
+    margin:0px;
+}
