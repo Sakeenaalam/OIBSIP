@@ -40,8 +40,8 @@ I welcome contributions to improve this portfolio website! If you have any sugge
 
 If you have any questions, feedback, or just want to connect, feel free to reach out to me:
 
-- Email: sakeenaalam999@gmail.com(mailto:sakeenaalam999@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- GitHub: [Your GitHub Profile](https://github.com/your-github)
+- Email: sakeenaalam999@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sakeena-alam-70ba922a7/
 
+  
 Thank you for visiting my portfolio website repository! I hope you enjoy exploring my work and learning more about my journey as a web developer.
