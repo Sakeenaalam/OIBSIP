@@ -1,6 +1,6 @@
 # Temperature Converter Web App
 
-This web application allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin.
+Welcome to the Temperature Converter Web App! This interactive web application provides a convenient solution for converting temperatures between Celsius, Fahrenheit, and Kelvin units. Whether you're a student studying physics, a professional in the sciences, or simply curious about temperature conversions, this user-friendly tool makes it easy to obtain accurate temperature readings in the unit of your choice.
 
 ## Files Included
 
@@ -39,7 +39,7 @@ To run this application locally:
 
 ## Support
 
-For any issues or inquiries, please contact sakeenaalam999@gmail.com].
+For any issues or inquiries, please contact sakeenaalam999@gmail.com.
 
 ## Contributing
 
