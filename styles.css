@@ -1,10 +1,12 @@
 
-body {
+body 
+{
     font-family: 'Times New Roman', Times, serif;
     background-color: #add8e6;
 }
 
-.container {
+.container 
+{
     max-width: 400px;
     margin: 0 auto;
     text-align: center;
@@ -14,14 +16,16 @@ body {
     background-color: #2ca2e6;
 }
 
-input[type="number"], select, button {
+input[type="number"], select, button 
+{
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     box-sizing: border-box;
 }
 
-button {
+button 
+{
     background-color: #1414e2;
     color: white;
     border: none;
@@ -30,11 +34,13 @@ button {
     
 }
 
-button:hover {
+button:hover 
+{
     background-color: #0000A0;
 }
 
-#result {
+#result 
+{
     margin-top: 2px;
     background-color: #fff;
     padding: 10px;
